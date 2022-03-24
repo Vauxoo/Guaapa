@@ -1,0 +1,4 @@
+[submodule "guaapa"]
+	path = guaapa
+	url = git@git.vauxoo.com:vauxoo/guaapa.git
+	branch = 15.0
